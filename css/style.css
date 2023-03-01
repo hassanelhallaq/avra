@@ -245,6 +245,7 @@ body{
     align-items: center;
 }
 .content-meal-details{
+    margin-bottom: 10px;
     background: #fff;
     padding: 10px;
     border-radius: 4px;
